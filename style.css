@@ -1,0 +1,135 @@
+ body {
+background: #4a2e82;
+background: linear-gradient(0deg, rgba(74, 46, 130, 1) 0%, rgba(42, 123, 155, 1) 50%, rgba(108, 224, 240, 1) 100%);
+}
+
+a {
+  color: #3d49a9;
+  font-weight: bold;
+  font-style: italic;
+}
+.nav {
+background: #c2eeff;
+background: linear-gradient(90deg,rgba(194, 238, 255, 1) 0%, rgba(147, 237, 247, 1) 55%, rgba(108, 174, 240, 1) 100%);
+  margin: 0;
+  padding: 0;}
+.nav li {
+  display: inline-block;
+  font-size: 18px;
+  padding: 10px;
+}
+h1 {
+    color: #072569;
+  width: 40%
+  margin-top: 100px;
+}
+h2 {
+    color: #a8d5ff;
+  width: 50%;
+ margin-left: 150px;
+ padding: 5px;}
+
+h6 {
+    margin:0; 
+}
+
+p {
+ padding: 5px;
+color: #e0f8ff;
+  font-family: serif;
+}
+.quest {
+  content: "";
+  clear: right;
+  display: table;
+  color: #e0e5ff;
+  border: solid 2px;
+  border-color: #7a90ff;
+  border-radius: 10px;
+  background-color: #295ea3;
+}
+
+img {
+  width: 200px;
+  float: left;
+  margin: 10px;
+  border-radius: 30px;
+}
+
+
+.psj {
+  content: "";
+  clear: right;
+  display: table;
+  color: #65448d;
+  border: solid 3px;
+  border-color: #c469dd;
+  border-radius: 10px;
+  background-color: #e5b5e8;
+  border-style: dashed;
+  
+}
+.lmj {
+ content: "";
+  clear: right;
+  display: table;
+  color: #cb3a3a;
+  border: solid 3px;
+  border-color: #fcaa1d;
+  border-radius: 10px;
+  background-color: #ffd79e;
+  border-style: wave;
+}
+.snj {
+  content: "";
+  clear: right;
+  display: table;
+  color: #e4d7e7;
+  border: solid 3px;
+  border-color: #9bc3fc;
+  border-radius: 10px;
+  background-color: #4758f0;
+  border-style: dotted;
+}
+
+
+.mj {
+  content: "";
+  clear: right;
+  display: table;
+  color: #7284e1;
+  border: solid 3px;
+  border-color: #2755c6;
+  border-radius: 10px;
+  background-color: #021e4d;
+  border-style: double;
+}
+
+.fej {
+  content: "";
+  clear: right;
+  display: table;
+  color: #f9da66;
+  border: solid 3px;
+  border-color: #6e4223;
+  border-radius: 10px;
+  background-color: #032be5;
+  border-style: outset;
+}
+
+.lj {
+  content: "";
+  clear: right;
+  display: table;
+  color: #9fc3e6;
+  border: solid 3px;
+  border-color: #82a7d8;
+  border-radius: 10px;
+  background-color: #283e53;
+  border-style: groove;
+}
+
+
+.a2 {
+  color: #ffadf0;
+}
